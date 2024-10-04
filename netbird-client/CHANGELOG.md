@@ -1,4 +1,7 @@
 # Changelog
+# 1.29.4
+- Update NetBird to 0.29.4
+
 # 1.28.7
 - Update NetBird to 0.28.7
 - Update base images
